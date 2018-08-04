@@ -1,0 +1,24 @@
+.results-list {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-around;
+}
+
+.btn-load-more {
+  color: #111;
+  font-weight: 400;
+  user-select: none;
+  line-height: 1.5em;
+  padding: 10px 8px;
+  background: rgba(241,243,245,.5);
+  box-shadow: 0 1px 1px rgba(102,119,136,.25);
+  width: 100%;
+  font-size: 1.5em;
+  margin-top: 20px;
+}
+
+.btn-load-more:hover {
+  background-color: #745fb5;
+  background: linear-gradient(5deg,#745fb5,#9066b8);
+  color: white;
+}

@@ -1,0 +1,38 @@
+.main-footer {
+  font-size: 1.2em;
+  text-align: center;
+  padding-top: 30px;
+  border-top: 1px solid #e9ecef;
+  margin-top: 30px;
+  display: flex;
+  justify-content: space-between;
+}
+
+.main-footer i {
+  color: #745fb5;
+  margin-right: 10px;
+}
+
+.main-footer .btn {
+  color: #111;
+  font-weight: 400;
+  user-select: none;
+  line-height: 1.5em;
+  padding: 2px 8px;
+  border-radius: 3px;
+  background: rgba(241,243,245,.5);
+  margin-right: 5px;
+  box-shadow: 0 1px 1px rgba(102,119,136,.25);
+  display: inline-block;
+  margin-left: 10px;
+}
+
+.main-footer .btn:hover {
+  background-color: #745fb5;
+  background: linear-gradient(5deg,#745fb5,#9066b8);
+  color: white;
+}
+
+.main-footer .back-to-top {
+  cursor: pointer;
+}

@@ -1,0 +1,5 @@
+main {
+  flex-grow: 10;
+  padding: 50px 50px 30px 50px;
+  overflow: hidden;
+}

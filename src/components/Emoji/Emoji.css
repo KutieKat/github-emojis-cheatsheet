@@ -1,0 +1,20 @@
+.results-list-item {
+  padding: 10px 20px;
+  margin-top: 10px;
+  cursor: pointer;
+  color: #adb5bd;
+  text-align: center;
+}
+
+.results-list-item:hover {
+  background-color: white;
+  border-radius: 10px;
+  box-shadow: 0 6px 8px rgba(102,119,136,.03), 0 1px 2px rgba(102,119,136,.3);
+  color: #111;
+}
+
+.results-list-item .markup {
+  display: block;
+  text-align: center;
+  font-size: 1.2em;
+}

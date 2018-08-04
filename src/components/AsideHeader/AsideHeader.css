@@ -1,0 +1,15 @@
+.aside-header {
+  font-size: 1.2em;
+  text-align: center;
+}
+
+.aside-header p {
+  margin-bottom: 20px;
+}
+
+.github-ribbon {
+  position: absolute;
+  top: 0;
+  left: 0;
+  border: 0;
+}
