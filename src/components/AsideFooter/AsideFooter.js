@@ -6,8 +6,8 @@ class AsideFooter extends Component {
   render() {
     return (
       <footer className="aside-footer">
-		    <span>Copyright &copy; { COPYRIGHT_YEAR }, <a href={ GITHUB_PAGE } target="_blank">KutieKat</a></span>
-		  </footer>
+        <span>Copyright &copy; { COPYRIGHT_YEAR }, <a href={ GITHUB_PAGE } target="_blank">KutieKat</a></span>
+      </footer>
     );
   }
 }
