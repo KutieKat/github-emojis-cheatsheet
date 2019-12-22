@@ -1,6 +1,9 @@
-# <img src="https://assets-cdn.github.com/images/modules/logos_page/Octocat.png" width="40" /> [Github Emojis Cheatsheet](https://github.com/KutieKat/github-emojis-cheatsheet) ![Build Status](https://travis-ci.org/KutieKat/github-emojis-cheatsheet.svg?branch=master)
-> An awesome cheatsheet on Github emojis
+# Github Emojis Cheatsheet
+An awesome cheatsheet on Github emojis
 
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT) ![Build Status](https://travis-ci.org/KutieKat/github-emojis-cheatsheet.svg?branch=master)
+
+## Snapshot
 ![Github Emojis Cheatsheet Snapshot](https://github.com/KutieKat/github-emojis-cheatsheet/blob/master/demo/snapshot.jpg?raw=true)
 
 ## Key Features
